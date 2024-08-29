@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste de Ciclos com Interação</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        button { margin: 10px; padding: 10px; cursor: pointer; }
+        #output { margin-top: 20px; padding: 10px; border: 1px solid #ccc; }
+        #canvasContainer { margin-top: 20px; }
+        canvas { border: 1px solid #ccc; }
+    </style>
+</head>
+<body>
+    <h1>Teste de Ciclos com Interação</h1>
+    <button onclick="runExample('simple')">Ciclo Simples</button>
+    <button onclick="runExample('nested')">Ciclo Aninhado</button>
+    <button onclick="runExample('concatenated')">Ciclo Concatenado</button>
+    <button onclick="runExample('unstructured')">Ciclo Não Estruturado</button>
+
+    <div id="output">Resultado aparecerá aqui...</div>
+
+    <div id="canvasContainer">
+        <canvas id="interactiveCanvas" width="600" height="400"></canvas>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
