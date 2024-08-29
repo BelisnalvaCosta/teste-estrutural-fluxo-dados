@@ -25,9 +25,7 @@ com os resultados exibidos dinamicamente através das interações AJAX.
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 ### Pesquisa
-![openai](https://github.com/user-attachments/assets/1e16ef8a-37d3-45b9-971f-c459a60b6e22)
-
-![openai1-pesquisa](https://github.com/user-attachments/assets/14acf209-e8a7-45b7-8ab2-e8c7deef249a)
+![openai](https://github.com/user-attachments/assets/14acf209-e8a7-45b7-8ab2-e8c7deef249a)
 
 
   <table>
