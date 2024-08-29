@@ -45,7 +45,8 @@ com os resultados exibidos dinamicamente através das interações AJAX.
 
 ## Referências
 
-- [Professor: ](Univesp)
+- [Marcelo Fontinato](https://www.youtube.com/watch?v=MejVLhVfWr8&t=7s)
+- [Marcelo Fontinato](https://www.youtube.com/watch?v=y_ccxqpTc3w&t=3s)
 
 
 [^1]: Este projeto é um protótipo que elaborei com apoio da IA generativa, para corrigir bugs e aperfeiçoamento do Projeto para estudos pessoais.
