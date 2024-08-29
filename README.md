@@ -45,8 +45,8 @@ com os resultados exibidos dinamicamente através das interações AJAX.
 
 ## Referências
 
-- [Marcelo Fontinato](https://www.youtube.com/watch?v=MejVLhVfWr8&t=7s)
-- [Marcelo Fontinato](https://www.youtube.com/watch?v=y_ccxqpTc3w&t=3s)
+- [Marcelo Fontinato - Disciplina Engenharia de Software - Estratégia de teste de software](https://www.youtube.com/watch?v=MejVLhVfWr8&t=7s)
+- [Marcelo Fontinato -  Disciplina Engenharia de Software - Teste estrutural](https://www.youtube.com/watch?v=y_ccxqpTc3w&t=3s)
 
 
 [^1]: Este projeto é um protótipo que elaborei com apoio da IA generativa, para corrigir bugs e aperfeiçoamento do Projeto para estudos pessoais.
